@@ -9,7 +9,17 @@ Team Magnezing: Shahaan Mirza, Tyler Wyzykowski, Zach Watson, Matthew Bellario
     Demographic questions help to better understand the tester's personal experience and history and how that may affect their interaction with the site. Tasks help to see how the user will interact directly with the site and how they will troubleshoot and problem solve issues.
     
 * Tester Demographics and Background
-
+    Tester 1: Alex DeMuth
+        *
+    Tester 2: Kanishk Pal
+        *
+    Tester 3: Zechariah Low Han Zhen
+        *
+    Tester 4: Jobin Joyson
+        *
+    Tester 5: Mark Lou
+        *
+        
 * Test Results
 
 * Necessary Changes
