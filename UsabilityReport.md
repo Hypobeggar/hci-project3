@@ -9,15 +9,7 @@ Team Magnezing: Shahaan Mirza, Tyler Wyzykowski, Zach Watson, Matthew Bellario
     Demographic questions help to better understand the tester's personal experience and history and how that may affect their interaction with the site. Tasks help to see how the user will interact directly with the site and how they will troubleshoot and problem solve issues.
 
 * Tester Demographics and Background
-    Tester 1: Alex DeMuth
-        *Major: Cybersecurity and ITM
-        *Age: 20
-        *Frequency of Internet use(scale 1-5): 5
-        *Estimate of internet use per week: 42 hours
-        *Type of Sites used: Streaming, Blackboard, Google, and Work related sites
-        *Coding Background: Java(Beginner level), Python(Beginner level), has taken ITMD361
-        *Expertise in Web Development(scale 1-5): 2
-    Tester 2: Kanishk Pal
+    Tester 1: Kanishk Pal
     *Major: Aerospace Engineering
     *Age: 20
     *Frequency of Internet use(scale 1-5): 5
@@ -25,7 +17,7 @@ Team Magnezing: Shahaan Mirza, Tyler Wyzykowski, Zach Watson, Matthew Bellario
     *Type of Sites used: Email, Drive, Blackboard, Streaming, Ecommerce, and News
     *Coding Background: No background in coding
     *Expertise in Web Development(scale 1-5): 1
-    Tester 3: Zechariah Low Han Zhen
+    Tester 2: Zechariah Low Han Zhen
     *Major: Mechanical Engineering
     *Age: 24
     *Frequency of Internet use(scale 1-5): 5
@@ -33,7 +25,7 @@ Team Magnezing: Shahaan Mirza, Tyler Wyzykowski, Zach Watson, Matthew Bellario
     *Type of Sites used: Social Media, Streaming, and Blogs
     *Coding Background: C++ and Python
     *Expertise in Web Development(scale 1-5): 1
-    Tester 4: Jobin Joyson
+    Tester 3: Jobin Joyson
     *Major: Computer Science
     *Age: 22
     *Frequency of Internet use(scale 1-5): 5
@@ -41,7 +33,7 @@ Team Magnezing: Shahaan Mirza, Tyler Wyzykowski, Zach Watson, Matthew Bellario
     *Type of Sites used: Schoolwork sites, Social Media, News, and Ecommerce occasionally
     *Coding Background: Python, Java, and Arachid
     *Expertise in Web Development(scale 1-5): 2
-    Tester 5: Mark Lou
+    Tester 4: Mark Lou
     *Major: Computer Science
     *Age: 20
     *Frequency of Internet use(scale 1-5): 5
