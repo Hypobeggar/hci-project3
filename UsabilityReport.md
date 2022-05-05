@@ -51,5 +51,11 @@ Team Magnezing: Shahaan Mirza, Tyler Wyzykowski, Zach Watson, Matthew Bellario
     *Expertise in Web Development(scale 1-5): 4
 
 * Test Results
+From the tests conducted on our website and interviewing them on the site overall. The testers were able to determine the site was an online store that sold goods mainly targeted towards band merchandise from the t-shirts.
+On the appearance of the website, some liked aspects of how it looked, and some thought the appearance visuals could use improvement such as the font size and remove button compared to the purchase item image size.
+The testers were able navigate to the login page and properly fill out the forum. The testers ran into problems and were confused, however, When it came to determining whether or not their information was created without any confirmation from the site.
+The users were properly able to fill out the shipping and billing forums. During one of the tests a user was able to see the previous users billing credentials which should not be visible to a separate user.
+When it came to the process of going through the cart, the users ran into multiple problems such as confirmation of determining whether or not the item was added to the cart or removed from the cart or what was in the cart at that given moment. The cart shopping page responsiveness needs improvement.
+The users also commented visual clarity of what page they were on as they looked at the search bar to be certain on what page of the website they were on. The testers gave valuable experience on what they liked, disliked, and areas and aspects of the site that needed improvement.
 
 * Necessary Changes
