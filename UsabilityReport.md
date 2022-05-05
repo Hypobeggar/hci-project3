@@ -64,15 +64,15 @@ The users also commented visual clarity of what page they were on as they looked
   * Assigned to: Matthew and Shahaan
 
 - Update the main navigation bar style
-  The current navigation bar has a vertical style when it should be horizontal. Users suggest a centralized navigation bar may not be best choice.
+  The current navigation bar has a vertical style when it should be horizontal. Users suggest a centralized navigation bar may not be the best choice.
   * Assigned to: Zach
 
 - Fix cart functionality
-  Users did not know if their items were added to the cart or not. A working counter of items should be implemented. Prices should be updated when changes are made to the cart.
+  Users did not know if their items were added to the cart or not. Adding and removing from the cart should be made more apparent. A working counter of items should be implemented. Prices should be updated when changes are made to the cart.
   * Assigned to: Tyler, Zach, Shahaan, and Matthew
 
 - Improve overall typography
-  Current size for "add to cart" and "remove" buttons is too small. Fonts can be better selected to promote readability. Ensuring sizes are legible and guide users also promotes readability.
+  Current size for "add to cart" and "remove" buttons is too small. Fonts can be better selected to promote readability. Ensuring sizes are legible and can guide users also promotes readability.
   * Assigned to: Shahaan and Matthew
 
 - Fix security issue
